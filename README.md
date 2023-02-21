@@ -1,1 +1,3 @@
 # GenNovelNeeds
+This repository contains the data and code for the project of generating novel customer needs.
+More to come...
