@@ -25,4 +25,7 @@ Examples:
 
 "A computer tailored to a specific user's needs",
 "A computer that can connect to a G network"
---------------------------------
+
+
+
+---------------------------------
